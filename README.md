@@ -1,43 +1,39 @@
 # Blood Connection
 > A Comprehensive Blood Donation platform to promote blood donation and streamline the process.
 
-## Connected Repositories
-_**This Project consists of two Repositories:**_ <br>
-- **Blood Connection Frontend**. It can be accessed [HERE](https://github.com/BloodConnection/blood-connection) <br>
-- **Blood Connection Backend**. It can be accessed [HERE](https://github.com/BloodConnection/blood-connection-api) <br>
-
-## Deployments
-The Blood Connection Official website, Backend and API, Blood Connection application are deployed at the following links:
-### Official Website
-> [BloodConnection Website](https://bloodconnection.github.io) <br>
-
-### Blood Connection API
-> [Vercel Link](https://blood-connection-api.vercel.app/api/)
-
-### Blood Connection Web Application
-> [Netlify Link](https://blood-connection.netlify.app/)
-
-
-
-## Specifications Document
-The project specifications were prepared by PRODUCT_MANAGER_LINKEDIN with meetings with Product_Designer_LINKEDIN and SoftwareDeveloper_LINKEDIN.
-> [Specs Link](https://LINK_GOES_HERE)
-
-
-## Figma Prototype
-The project was designed by Product_Designer_LINKEDIN with meetings with Product Manager and Development team.
-> [Play with Figma](https://www.figma.com/proto/LINK)
-
-
-
 ## Built With
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Linters
 ![STYLELINT](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+## Deployments
+The Blood Connection Official website, Backend and API, Blood Connection application are deployed at the following links:
+### Official Website
+> [BloodConnection Website](https://bloodconnection.github.io) <br>
+
+### Blood Connection API Documentation
+> [Vercel Link](https://bloodconnection.vercel.app/api/)
+
+### Blood Connection Web Application
+> [Netlify Link](https://bloodconnection.vercel.app/)
+
+
+
+## Specifications Document
+The project specifications were prepared by PRODUCT_MANAGER_LINKEDIN with meetings with Product_Designer_LINKEDIN and SoftwareDeveloper_LINKEDIN.
+> [Specs Link](https://bloodconnection.github.io/specifications)
+
+
+## Figma Prototype
+The project was designed by Product_Designer_LINKEDIN with meetings with Product Manager and Development team.
+> [Play with Figma](https://www.figma.com/proto/LINK)
+
 
 ## Getting Started
 
